@@ -1,0 +1,14 @@
+footer{
+    top:100%;
+    text-align: center  ;
+    width: 100%;
+    background-color: black;
+    color: aliceblue;
+    position: absolute;
+}
+a{
+    color: wheat;
+    margin: 10px;
+}
+
+
