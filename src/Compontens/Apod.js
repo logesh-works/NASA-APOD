@@ -19,7 +19,7 @@ const Apod = () => {
       {data ? (
         <div className="data-details">
           <h1>{data.title}</h1>
-          <img src={data.hdurl} />
+          <img src={data.hdurl} alt='Today Pic' />
           <p>Description: {data.explanation}</p>
           {/* Display other data details */}
         </div>
